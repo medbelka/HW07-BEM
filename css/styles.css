@@ -279,7 +279,8 @@ button {
   margin-bottom: 12px;
 }
 
-.form {
+.form,
+.agreement {
   width: 100%;
 }
 
